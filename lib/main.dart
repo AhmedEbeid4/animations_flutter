@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
+import 'implicit_animation_code_lab.dart';
 import 'move.dart';
 
 void main() {
-  runApp(const MoveExample());
+  runApp(const ImplicitAnimations());
 }
 
 class MyApp extends StatelessWidget {
